@@ -13,5 +13,8 @@
     "zksync-web3": "^0.12.0"
   },
   "repository": "https://github.com/alphaomega03/zksync-greeter-example.git",
-  "author": "Janus Manlapaz <alphaomega030894@gmail.com>"
+  "author": "Janus Manlapaz <alphaomega030894@gmail.com>",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
